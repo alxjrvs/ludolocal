@@ -2,14 +2,14 @@
 
 /**
  * @ngdoc overview
- * @name ludolocalApp
+ * @name frontendApp
  * @description
- * # ludolocalApp
+ * # frontendApp
  *
  * Main module of the application.
  */
 angular
-  .module('ludolocalApp', [
+  .module('frontendApp', [
     'ngAnimate',
     'ngCookies',
     'ngResource',

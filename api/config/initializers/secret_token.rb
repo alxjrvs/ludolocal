@@ -16,4 +16,4 @@
 # Using secret_token for rails3 compatibility. Change to secret_key_base
 # to avoid deprecation warning.
 # Can be safely removed in a rails3 api-only application.
-Ludolocal::Application.config.secret_token = '7a3e25b5005c989cb4f7839d15e265192fed2b27ed05ab84f27a9c387cd5029cd7fa5d3392a6cc5107a5a81157e2896f0b8836e6d0fa5650367d2f87f89b5cf6'
+Api::Application.config.secret_token = 'eb68be4adfd74af422a0f61971c21cdb25435fd788ff01c08a7be3ac5317032b375289513bb6d2184b0d5485c69eb6595b1c276046cfc6d7d875a1f475f4364b'

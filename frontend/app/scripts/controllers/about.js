@@ -2,12 +2,12 @@
 
 /**
  * @ngdoc function
- * @name ludolocalApp.controller:AboutCtrl
+ * @name frontendApp.controller:AboutCtrl
  * @description
  * # AboutCtrl
- * Controller of the ludolocalApp
+ * Controller of the frontendApp
  */
-angular.module('ludolocalApp')
+angular.module('frontendApp')
   .controller('AboutCtrl', function ($scope) {
     $scope.awesomeThings = [
       'HTML5 Boilerplate',
